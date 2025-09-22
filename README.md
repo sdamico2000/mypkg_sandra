@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/sdamico2000/mypkg_sandra/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sdamico2000/mypkg_sandra/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypack.Rproj is to …
